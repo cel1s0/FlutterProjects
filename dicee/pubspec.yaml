@@ -1,0 +1,8 @@
+name: dicee
+description: A new Flutter project.
+...
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/

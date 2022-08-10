@@ -1,0 +1,7 @@
+name: ama
+description: Ask me anything challenge.
+...
+flutter:
+  uses-material-design: true
+  assets:
+    - images/

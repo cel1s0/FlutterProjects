@@ -1,0 +1,8 @@
+name: bmi_calculator
+description: An user friendly BMI calculator.
+...
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^9.2.0

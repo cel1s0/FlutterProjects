@@ -1,0 +1,13 @@
+name: xylophone
+description: A music app that plays Xylophone sounds.
+...
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  audioplayers: ^0.20.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/

@@ -1,0 +1,16 @@
+name: mi_card
+description: A new Flutter application.
+...
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+    
+  fonts:
+    - family: SourceSansPro
+      fonts:
+        - asset: fonts/SourceSansPro-Regular.ttf
+    - family: NotoSans
+      fonts:
+        - asset: fonts/NotoSans-Bold.ttf
+          weight: 700
